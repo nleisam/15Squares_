@@ -1,5 +1,4 @@
 package com.example.a15squares;
-
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.core.content.ContextCompat;
 
@@ -11,6 +10,13 @@ import android.widget.RelativeLayout;
 import android.view.View.OnClickListener;
 
 import java.util.Random;
+
+/*
+ * NAME: NOELLE LEI SAM
+ * CS301
+ * DATE: 02 OCT 2022
+ * HW#2: 15 SQUARES
+ */
 
 public class Game extends AppCompatActivity {
 
